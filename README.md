@@ -19,6 +19,7 @@ I'm an aspiring theoretical computer scientist, software engineering, and data s
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![DataGrip](https://img.shields.io/badge/datagrip-000000.svg?style=[style_name]&logo=datagrip&logoColor=white)
 
 
 ## 📊 GitHub Stats
