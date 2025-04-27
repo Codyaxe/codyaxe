@@ -109,7 +109,6 @@
 
 <h2><samp>GitHub Stats</samp></h2>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=codyaxe&show_icons=true&theme=github_dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=codyaxe&show_icons=true&theme=github_dark)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codyaxe)](https://github.com/codyaxe/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codyaxe&layout=compact)](https://github.com/codyaxe/github-readme-stats)
