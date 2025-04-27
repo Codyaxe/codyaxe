@@ -21,6 +21,7 @@ I'm an aspiring theoretical computer scientist, software engineering, and data s
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ## IDE Utilized
+![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
 ![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)
 ![Rubymine](https://img.shields.io/badge/rubymine-000000.svg?style=for-the-badge&logo=rubymine&logoColor=white)
 ![DataGrip](https://img.shields.io/badge/datagrip-000000.svg?style=for-the-badge&logo=datagrip&logoColor=white)
