@@ -1,18 +1,18 @@
-## Hi there 👋
-- **Python** 🐍
-- **C++** 🚀
-- **C#** 🎮
-- **JavaScript** ✨
-- **HTML** 🌐
-- **CSS** 🎨
-- **Lua** 🐉
-- **Go** 🏃‍♂️
-- **Ruby** 💎
-- **Haskell** 📚
-- **Java** ☕
-- **Rust** 🦀
-- **LaTeX** 📄
+![Programming Languages](https://via.placeholder.com/1200x200.png?text=Python+C%2B%2B+C%23+Javascript+HTML+CSS+Lia+Go+Ruby+Haskell+Java+Rust+LaTex)
 
+- **Python**
+- **C++**
+- **C#**
+- **Javascript**
+- **HTML**
+- **CSS**
+- **Lia**
+- **Go**
+- **Ruby**
+- **Haskell**
+- **Java**
+- **Rust**
+- **LaTex**
 <!--
 **Codyaxe/codyaxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
