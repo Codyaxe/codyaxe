@@ -1,7 +1,7 @@
 # Hi there, I'm Codyaxe 👋
 
 ## 🚀 About Me
-I'm a software developer passionate about exploring various programming languages and technologies.
+I'm an aspiring theoretical computer scientist, software engineering, and data scientist passionate about the underlying principles of computer science.
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
