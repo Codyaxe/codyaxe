@@ -25,7 +25,7 @@ I'm an aspiring theoretical computer scientist, software engineering, and data s
 ![Rubymine](https://img.shields.io/badge/rubymine-000000.svg?style=for-the-badge&logo=rubymine&logoColor=white)
 ![DataGrip](https://img.shields.io/badge/datagrip-000000.svg?style=for-the-badge&logo=datagrip&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![WebStorm](https://img.shields.io/badge/webstorm-000000.svg0?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
+![WebStorm](https://img.shields.io/badge/webstorm-000000.svg?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 ![PhpStorm](https://img.shields.io/badge/phpstorm-000000.svg?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
