@@ -106,7 +106,6 @@
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/codyaxelbolt/)
 
 
-
 <h2><samp>📈 GitHub Stats</samp></h2>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=codyaxe&show_icons=true&theme=github_dark)
