@@ -1,8 +1,9 @@
-<h1 style="font-family: 'Courier New', monospace;">🔥🔥Welcome to my Domain🔥🔥</h1>
+<h1><samp>🔥🔥Welcome to my Domain🔥🔥</samp></h1>
 
-<p style="font-family: 'Courier New', monospace;">I’m an aspiring computer scientist, cheminformatician/bioinformatician, software engineer, and data scientist passionate about the underlying principles of computer science. I mainly explore topics in other fields, such as chemistry and mathematics, outside of computer science, which, hopefully, would satiate the gremlin inside me.</p>
+<samp>I’m an aspiring computer scientist, cheminformatician/bioinformatician, software engineer, and data scientist passionate about the underlying principles of computer science. I mainly explore topics in other fields, such as chemistry and mathematics, outside of computer science, which, hopefully, would satiate the gremlin inside me.</samp>
 
-<h2 style="font-family: 'Courier New', monospace;">Languages</h2>
+
+<h2><samp>Languages</samp></h2>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -14,7 +15,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
-<h2 style="font-family: 'Courier New', monospace;">🚀 Currently Exploring</h2>
+<h2><samp>🚀 Currently Explorings</samp></h2>
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -24,7 +25,7 @@
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-<h2 style="font-family: 'Courier New', monospace;">IDE</h2>
+<h2><samp>IDE</samp></h2>
 
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
 ![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)
@@ -38,20 +39,21 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23000000.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<h2 style="font-family: 'Courier New', monospace;"> Design Tools</h2>
+
+<h2><samp>Design Tools</samp></h2>
 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-<h2 style="font-family: 'Courier New', monospace;"> Frontend</h2>
+
+<h2><samp>Frontend</samp></h2>
 
 ![Angular](https://img.shields.io/badge/angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-
-<h2 style="font-family: 'Courier New', monospace;">Backend</h2>
+<h2><samp>Backend</samp></h2>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -59,14 +61,16 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-<h2 style="font-family: 'Courier New', monospace;">Database</h2>
+
+<h2><samp>Database</samp></h2>
 
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<h2 style="font-family: 'Courier New', monospace;">Data Science & Machine Learning</h2>
+
+<h2><samp>Data Science & Machine Learning</samp></h2>
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -75,7 +79,8 @@
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-<h2 style="font-family: 'Courier New', monospace;">Others</h2>
+
+<h2><samp>Others</samp></h2>
 
 ![Scrapy](https://img.shields.io/badge/scrapy-%2360a839.svg?style=for-the-badge&logo=scrapy&logoColor=d1d2d3)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -83,7 +88,8 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<h2 style="font-family: 'Courier New', monospace;">Competitive</h2>
+
+<h2><samp>Competitive</samp></h2>
 
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
@@ -92,10 +98,13 @@
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
-<h2 style="font-family: 'Courier New', monospace;">Social Media</h2>
+
+<h2><samp>Social Media</samp></h2>
 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/codyaxelbolt/)
 
 
-## 📊 GitHub Stats
+
+<h2><samp>GitHub Stats</samp></h2>
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=codyaxe&show_icons=true&theme=github_dark)
