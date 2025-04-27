@@ -1,4 +1,17 @@
 ## Hi there 👋
+- **Python** 🐍
+- **C++** 🚀
+- **C#** 🎮
+- **JavaScript** ✨
+- **HTML** 🌐
+- **CSS** 🎨
+- **Lua** 🐉
+- **Go** 🏃‍♂️
+- **Ruby** 💎
+- **Haskell** 📚
+- **Java** ☕
+- **Rust** 🦀
+- **LaTeX** 📄
 
 <!--
 **Codyaxe/codyaxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
