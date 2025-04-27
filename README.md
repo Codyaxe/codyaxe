@@ -110,4 +110,5 @@
 <h2><samp>GitHub Stats</samp></h2>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=codyaxe&show_icons=true&theme=github_dark)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codyaxe&show_icons=true&theme=github_dark&card_width=468)](https://github.com/codyaxe/github-readme-stats)
