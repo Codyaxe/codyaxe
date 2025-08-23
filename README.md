@@ -2,7 +2,7 @@
 
 <samp>I’m an aspiring computer scientist, cheminformatician/bioinformatician, software engineer, and data scientist passionate about the underlying principles of computer science. I mainly explore topics in other fields, such as chemistry and mathematics, outside of computer science, which, hopefully, would satiate the gremlin inside me.</samp>
 
-<samp>Student</samp>
+<samp>Student, Game Modder, Math Hobbyist</samp>
 
 
 <h2><samp>🖥️ Languages</samp></h2>
